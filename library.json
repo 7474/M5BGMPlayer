@@ -1,0 +1,16 @@
+{
+  "name": "M5BGMPlayer",
+  "description": "mp3 player for M5Stack.",
+  "keywords": "mp3",
+  "authors": {
+    "name": "koudenpa",
+    "url": "https://koudenpa.hatenablog.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/7474/M5BGMPlayer.git"
+  },
+  "version": "0.0.1",
+  "framework": "arduino",
+  "platforms": "espressif32"
+}
